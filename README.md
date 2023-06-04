@@ -1,10 +1,4 @@
-# tokenwebsite #projectwebsite #roadmap
-Token website with roadmap and live chart
+👳💸 Sheikh CEO:
+👉 The goal of Sheikh CEO is to test the limits of the Binance Smart Chain world by cutting off all zeros from its supply and burning 99% of the remaining tokens.
 
-
-Watch video how to set up 👉 https://youtu.be/KXyFChTbtX8
-
-Join my telegram 👉 https://t.me/automatecrypto 
-
-Twitter 👉 https://twitter.com/techaddict0x
-
+🌐 https://sheikhceo.github.io/tokenwebsite-main/
